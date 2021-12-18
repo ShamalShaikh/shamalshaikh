@@ -37,7 +37,6 @@ e. Others
       Normalize.css - https://github.com/necolas/normalize.css/
       HTML5 Doctor Reset - html5doctor.com/html-5-reset-stylesheet/
 /* ------------------------------------------------------------------ */
-
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
@@ -50,13 +49,13 @@ table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, summary,
 time, mark, audio, video {
-   margin: 0;
-   padding: 0;
-   border: 0;
-   outline: 0;
-   font-size: 100%;
-   vertical-align: center;
-   background: transparent;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: middle;
+	background: transparent;
 }
 
 article,aside,details,figcaption,figure,
@@ -162,8 +161,6 @@ h1, h2, h3, h4, h5, h6 {
    color: #313131;
 	font-family: 'opensans-bold', sans-serif;
    font-weight: normal;
-   -webkit-font-variant-ligatures: common-ligatures;
-   -moz-font-variant-ligatures: common-ligatures;
    font-variant-ligatures: common-ligatures;
    text-rendering: optimizeLegibility;
 }
@@ -511,12 +508,10 @@ dd { margin: 0 0 0 20px; }
 	-webkit-transition: all 200ms ease-in-out;
 	-moz-transition: all 200ms ease-in-out;
 	-o-transition: all 200ms ease-in-out;
-	-ms-transition: all 200ms ease-in-out;
 	transition: all 200ms ease-in-out;
 
    -moz-border-radius: 3px;
    -webkit-border-radius: 3px;
-   -khtml-border-radius: 3px;
 	border-radius: 3px;
 }
 .pagination .page-numbers:hover {
@@ -567,12 +562,10 @@ input[type="button"] {
    -webkit-transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
 	-o-transition: all .2s ease-in-out;
-	-ms-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
 
    -moz-border-radius: 3px;
    -webkit-border-radius: 3px;
-   -khtml-border-radius: 3px;
    border-radius: 3px;
 }
 
