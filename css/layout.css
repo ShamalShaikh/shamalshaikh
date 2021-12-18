@@ -41,7 +41,8 @@ body { background: #0f0f0f; }
   position: relative;
 }
 .section-intro h1 {
-  font-family: 'opensans-bold', sans-serif;
+  font-family: 'Opensans', sans-serif;
+  font-weight:700;
   font-size: 3.6rem;
   color: #313131;
   line-height: 1.25;
@@ -89,14 +90,14 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font-family: 'Bebas Neue', cursive; font-size: 125px;
    color: #fff;
    letter-spacing: -2px;
-   margin: 0 auto 18px auto;
+   margin: 0 auto 70px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
+   font-family: 'Libre Baskerville', serif;
    color: #A8A8A8;
    margin: 0 auto;
    width: 70%;
@@ -255,7 +256,7 @@ ul#nav li.current a { color: #F06000; }
   margin-bottom: 3.6rem;
 }
 .about-content h3 {
-  font-family: 'opensans-bold', sans-serif;
+  font-family: 'Opensans-bold';
   font-size: 1.8rem;
   color: #FFFFFF;
   text-transform: uppercase;
@@ -1194,7 +1195,7 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 .skill-bars li .progress span {
   position: absolute;
-  right: 0;
+  right: -17px;
   top: -3.6rem;
   display: block;
   font-family: "poppins-regular", sans-serif;
