@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\css\\font-awesome\\css",
+    "\\css\\fontello\\css",
+    "\\css\\fonts\\librebaskerville",
+    "\\css\\fonts\\opensans"
   ],
-  "SelectedNode": "\\Stats.html",
+  "SelectedNode": "\\css\\fonts.css",
   "PreviewInSolutionExplorer": false
 }
