@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\css",
-    "\\css\\font-awesome\\css",
-    "\\css\\fontello\\css",
-    "\\css\\fonts\\librebaskerville",
-    "\\css\\fonts\\opensans"
+    "\\css"
   ],
   "SelectedNode": "\\css\\fonts.css",
   "PreviewInSolutionExplorer": false
