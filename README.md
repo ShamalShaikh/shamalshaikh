@@ -1,7 +1,7 @@
 ## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Friends" width="40" height="40"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Shamal+Shaikh;Let's+Have+Some+Fun!)](https://git.io/typing-svg)
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ShamalShaikh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamalShaikh)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=ShamalShaikh.shamalshaikh">
 
@@ -29,4 +29,5 @@
 
 <img src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif">
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamalShaikh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamalShaikh&theme=react-dark)](https://github.com/ShamalShaikh/)
+
