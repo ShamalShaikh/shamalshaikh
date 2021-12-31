@@ -8,3 +8,20 @@
 <img src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif">
 
 
+🙋‍♂️ About Me
+<hr>
+    🔭 I’m currently a Final year student at [National Institute of Technology, Warangal](https://www.nitw.ac.in/)
+
+    🌱 I like to do Web Development and I use Django as preferred backend framework.
+
+    ⚡ I’m currently working as Senior Web Developer in IEEE Student Branch NITW.
+
+    👯 I’m looking to collaborate on OpenSource Projects and interested in participating in Hackathons
+
+    👨‍💻 All of my projects are available at [My Repositories](https://github.com/ShamalShaikh?tab=repositories)
+
+    👨‍💻 Visit my PORTFOLIO [shamalshaikh.github.io](https://shamalshaikh.github.io/shamalshaikh/)
+
+    📫 I'd Love to meet you. _Send me a mail:_ **shamalshaikh@gmail.com**
+
+
