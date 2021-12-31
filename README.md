@@ -28,3 +28,5 @@
 <hr>
 
 <img src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif">
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamalShaikh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
