@@ -31,3 +31,6 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamalShaikh&theme=react-dark)](https://github.com/ShamalShaikh/)
 
+My Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShamalShaikh)](https://github.com/ShamalShaikh)
+
