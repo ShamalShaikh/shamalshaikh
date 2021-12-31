@@ -1,4 +1,4 @@
-## Hi! <img style="height: 1px; width: 1px;"src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Shamal 
+## Hi! <img style="height: 1px; width: 1px;" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Shamal 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShamalShaikh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://visitor-badge.glitch.me/badge?page_id=ShamalShaikh.shamalshaikh">
