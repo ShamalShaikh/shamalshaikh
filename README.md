@@ -1,27 +1,30 @@
-## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Friends" width="40" height="40"> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Shamal+Shaikh;Let's+create+!)](https://git.io/typing-svg)
+## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Friends" width="40" height="40"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Shamal+Shaikh;Let's+Have+Some+Fun!)](https://git.io/typing-svg)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ShamalShaikh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=ShamalShaikh.shamalshaikh">
 
-<img src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif">
-
-
 🙋‍♂️ About Me
 <hr>
-    🔭 I’m currently a Final year student at [National Institute of Technology, Warangal](https://www.nitw.ac.in/)
 
-    🌱 I like to do Web Development and I use Django as preferred backend framework.
+🔭 I’m currently a Final year student at [National Institute of Technology, Warangal](https://www.nitw.ac.in/)
 
-    ⚡ I’m currently working as Senior Web Developer in IEEE Student Branch NITW.
+🌱 I like to do Web Development and I use Django as preferred backend framework.
 
-    👯 I’m looking to collaborate on OpenSource Projects and interested in participating in Hackathons
+⚡ I’m currently working as Senior Web Developer in IEEE Student Branch NITW.
 
-    👨‍💻 All of my projects are available at [My Repositories](https://github.com/ShamalShaikh?tab=repositories)
+👯 I’m looking to collaborate on OpenSource Projects and interested in participating in Hackathons
 
-    👨‍💻 Visit my PORTFOLIO [shamalshaikh.github.io](https://shamalshaikh.github.io/shamalshaikh/)
+👨‍💻 All of my projects are available at [**My Repositories**](https://github.com/ShamalShaikh?tab=repositories)
 
-    📫 I'd Love to meet you. _Send me a mail:_ **shamalshaikh@gmail.com**
+👨‍💻 Visit my PORTFOLIO [shamalshaikh.github.io](https://shamalshaikh.github.io/shamalshaikh/)
+
+📫 I'd Love to meet you. _Send me a mail:_ **shamalshaikh@gmail.com**
 
 
+🕺 #Ask me about anything
+
+<hr>
+
+<img src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif">
