@@ -20,7 +20,7 @@
 📫 I'd Love to meet you. _Send me a mail:_ **shamalshaikh@gmail.com**
 
 
-# Ask Me Anythin!! 🙋‍♂️
+# Ask Me Anythin'!! 🙋‍♂️
 <img src="https://thumbs.gfycat.com/DefiantLividElephantseal-max-1mb.gif" width="50%" height="50%">
 
 <hr>
