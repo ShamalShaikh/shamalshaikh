@@ -57,11 +57,10 @@
 <br/>
 <hr/>
 
-# My Trophies:
+# My Trophies 😎:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShamalShaikh)](https://github.com/ShamalShaikh)
 
-<hr>
-
-If you liked any of my projects, give it a ⭐ and share it with friends!
-Made with ❤ by Shamal Shaikh
+# Support 🤟
+<p align="center">If you liked any of my projects, give it a ⭐ and share it with friends!<p>
+<p align="center">Made with ❤ by Shamal Shaikh<p>
