@@ -8,7 +8,9 @@
 
 # 🙋‍♂️ About Me
 
-🔭 I’m currently a Final year student at [National Institute of Technology, Warangal](https://www.nitw.ac.in/)
+🔥 I'm a Master's in Computer Science student at [University of Colorado, Boulder](https://www.colorado.edu/cs/). 
+
+🔭 I’ve completed my bachelor's in computer science from [National Institute of Technology, Warangal](https://www.nitw.ac.in/)
 
 🌱 I like to do Web Development and I use Django as preferred backend framework.
 
