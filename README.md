@@ -34,7 +34,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamalShaikh)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&background=ffff&ring=009DFF&fire=009DFF&currStreakLabel=009DFF)](https://git.io/streak-stats)
 <a href="https://github.com/ShamalShaikh/github-readme-stats"><img alt="Shamal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamalShaikh&count_private=true&layout=compact&&hide_border=false&bg_color=fff" /></a>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamalShaikh&bg_color=fff&color=009DFF&line=009DFF)](https://github.com/ShamalShaikh/)
+[![Shamal's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShamalShaikh&bg_color=fff&color=009DFF&line=009DFF)](https://github.com/ShamalShaikh/)
 
 <hr>
 
