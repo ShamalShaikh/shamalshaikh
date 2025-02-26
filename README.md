@@ -12,10 +12,6 @@
 
 🔭 I’ve completed my bachelor's in computer science from [National Institute of Technology, Warangal](https://www.nitw.ac.in/)
 
-🌱 I like to do Web Development and I use Django as preferred backend framework.
-
-⚡ I’m currently working as Senior Web Developer in IEEE Student Branch NITW.
-
 👯 I’m looking to collaborate on OpenSource Projects and interested in participating in Hackathons
 
 👨‍💻 All of my projects are available at [**My Repositories**](https://github.com/ShamalShaikh?tab=repositories)
@@ -24,7 +20,7 @@
 
 👨‍💻 Visit my Blogs [**ShamalBlog**](https://shamalshaikh.github.io/ShamalBlog/)
 
-📫 I'd Love to meet you. _Send me a mail:_ **shamalshaikh@gmail.com**
+📫 I'd Love to talk and collaborate with you. _Send me a mail:_ **shamalshaikh@gmail.com**
 
 
 # Ask Me Anythin'!! 🙋‍♂️
